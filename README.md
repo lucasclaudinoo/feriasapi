@@ -1,6 +1,6 @@
-#Requisitos
+Requisitos:
 preciso ter o mongodb e o python instalado
 
 
-#Para iniciar aplicação
+Para iniciar aplicação:
  python app/main.py
